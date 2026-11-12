@@ -8,7 +8,7 @@ format:
     slide-number: true
     scrollable: true
     transition: slide
---
+---
 
 ## Idea 1
 
