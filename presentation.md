@@ -8,11 +8,14 @@ format:
     slide-number: true
     scrollable: true
     transition: slide
+--
 
 ## Idea 1
+
 - Data Standardization and Energy Analytics
 - Prof: Gregory Vial
 
 ## Idea 2 
+
 - Rebound Effects in Green IT Literature
 - Prof: Camille Grange
